@@ -1,0 +1,7 @@
+.parent{
+  width: 230px;
+  height: 297px;
+  background-color: white;
+  border: 2px solid  #CCCCCC;
+  overflow: scroll;
+}
